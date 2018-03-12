@@ -1,0 +1,46 @@
+<flow>
+    <moving_k_closest_average window="5" k_closest="3">
+        <feature>Sensor1</feature>
+        <feature>Sensor2</feature>
+        <feature>Sensor3</feature>
+        <feature>Sensor4</feature>
+        <feature>Sensor5</feature>
+        <feature>Sensor6</feature>
+        <feature>Sensor7</feature>
+        <feature>Sensor9</feature>
+        <feature>Sensor10</feature>
+        <feature>Sensor11</feature>
+        <feature>Sensor12</feature>
+        <feature>Sensor13</feature>
+        <feature>Sensor14</feature>
+        <feature>Sensor15</feature>
+        <feature>Sensor16</feature>
+        <feature>Sensor17</feature>
+        <feature>Sensor18</feature>
+        <feature>Sensor19</feature>
+        <feature>Sensor20</feature>
+        <feature>Sensor21</feature>
+    </moving_k_closest_average>
+    <moving_variance window="5">
+        <feature>Sensor1</feature>
+        <feature>Sensor2</feature>
+        <feature>Sensor3</feature>
+        <feature>Sensor4</feature>
+        <feature>Sensor5</feature>
+        <feature>Sensor6</feature>
+        <feature>Sensor7</feature>
+        <feature>Sensor9</feature>
+        <feature>Sensor10</feature>
+        <feature>Sensor11</feature>
+        <feature>Sensor12</feature>
+        <feature>Sensor13</feature>
+        <feature>Sensor14</feature>
+        <feature>Sensor15</feature>
+        <feature>Sensor16</feature>
+        <feature>Sensor17</feature>
+        <feature>Sensor18</feature>
+        <feature>Sensor19</feature>
+        <feature>Sensor20</feature>
+        <feature>Sensor21</feature>
+    </moving_variance>
+</flow>

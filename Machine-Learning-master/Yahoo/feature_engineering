@@ -1,0 +1,5 @@
+<flow>
+    <moving_standard_deviation window="5">
+        <feature>value</feature>
+    </moving_standard_deviation>
+</flow>
